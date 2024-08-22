@@ -1,0 +1,22 @@
+.listItem {
+  display: flex;
+  list-style: none;
+
+  align-items: center;
+  margin: 30px;
+  color: #1e293b;
+
+  font-weight: 600;
+}
+li p {
+  font-size: 20px;
+  margin: 10px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+* {
+  text-decoration: none;
+}
